@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "button.ornek.35", "button.ornek.35\button.ornek.35.csproj", "{26015465-8833-4CD2-88BD-B7643347581D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26015465-8833-4CD2-88BD-B7643347581D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26015465-8833-4CD2-88BD-B7643347581D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26015465-8833-4CD2-88BD-B7643347581D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26015465-8833-4CD2-88BD-B7643347581D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B0AAC77-8EDB-49A6-9859-8BC204FB9345}
+	EndGlobalSection
+EndGlobal
